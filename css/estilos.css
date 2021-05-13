@@ -1,0 +1,12 @@
+/* Responsive */
+
+/* Desktop */
+@import url('./desktop.css');
+
+/* Pantallas 768px */
+@import url('./tablet.css');
+
+/* Pantallas 450px */
+@import url('./mobile.css');
+
+/* ---------------------- */

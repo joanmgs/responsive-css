@@ -1,0 +1,8 @@
+@media (max-width: 450px) {
+    
+    div.bg-header {
+        height: 100vh;
+        font-size: 0.8rem;
+    }
+
+}
